@@ -1,4 +1,5 @@
-// 
+// Copyright (c) 2021 Son0nline
+
 var B0 = " 0"
 var B1 = ".,'?!1"
 var B2 = "abc2"
